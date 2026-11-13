@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cliente web</title>
+</head>
+<body>
+    <h3>cliente web </h3>
+    <button onclick="llamaSoap()">3.Soap</button>
+    <pre id="r">Esperando resultadoi </pre>
+</body>
+<script>
+    async function llameSoap() {
+        const cod = document.getElementById('c').value;
+        const xml = '<soap:Evenlope xmlns:soap="http://schemas.xmlsoap.org/sopa/envelope/" xmlns:tem="http://tempuri.org/"><soap:body><tem:consultarvalor><tem:coidgo></temconsultarValor></soap:body> </soap:Envelope>';
+        const res = await (await fetch('http:127.0.0.1.5000/Servicio.amsx',{
+            method :'POST',
+            headers:{'Content-type':'text7xml; charset=utf-8'},
+            body: xml
+        })).text();
+        document.getElementById('r').innerText = res;
+    }
+</script>
+</html>

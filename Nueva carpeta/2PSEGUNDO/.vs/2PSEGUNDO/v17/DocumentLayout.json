@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|c:\\users\\usuario\\source\\repos\\2psegundo\\2psegundo\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|solutionrelative:2psegundo\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|c:\\users\\usuario\\source\\repos\\2psegundo\\2psegundo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|solutionrelative:2psegundo\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|c:\\users\\usuario\\source\\repos\\2psegundo\\2psegundo\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BC574CB2-4C46-4B75-B106-CD5348D4DB4F}|2PSEGUNDO\\2PSEGUNDO.csproj|solutionrelative:2psegundo\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "2PSEGUNDO\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "2PSEGUNDO\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T21:45:40.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\Web.Release.config",
+              "RelativeDocumentMoniker": "2PSEGUNDO\\Web.Release.config",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\Web.Release.config",
+              "RelativeToolTip": "2PSEGUNDO\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-12T21:45:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "2PSEGUNDO\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\2PSEGUNDO\\2PSEGUNDO\\WebService1.asmx.cs",
+              "RelativeToolTip": "2PSEGUNDO\\WebService1.asmx.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAUwFMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T21:15:47.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
